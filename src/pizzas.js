@@ -13,34 +13,6 @@ export const pizzas = [
     ingredients: ["Queso mozzarella", "Albahaca", "Tomate"],
     price: 9500,
   },
-  {
-    id: "p003",
-    name: "Hawaiana",
-    img: "/vite.svg",
-    ingredients: ["Piña", "Jamón", "Queso"],
-    price: 11000,
-  },
-  {
-    id: "p004",
-    name: "Vegetariana",
-    img: "/vite.svg",
-    ingredients: ["Pimiento", "Cebolla", "Champiñones", "Aceitunas"],
-    price: 10500,
-  },
-  {
-    id: "p005",
-    name: "Cuatro Quesos",
-    img: "/vite.svg",
-    ingredients: ["Mozzarella", "Parmesano", "Roquefort", "Cheddar"],
-    price: 12000,
-  },
-  {
-    id: "p006",
-    name: "Prosciutto",
-    img: "/vite.svg",
-    ingredients: ["Jamón Serrano", "Queso", "Rúcula"],
-    price: 11500,
-  },
 ];
 
 export const pizzaCart = [
